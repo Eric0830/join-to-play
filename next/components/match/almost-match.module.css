@@ -1,0 +1,30 @@
+.almost-escape {
+  background-image: url(/images/match/escape-card-bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;
+  box-shadow: 0px 2px 5px #00000046;
+  transition: all 0.5s;
+  opacity:1;
+}
+
+.almost-escape:hover {
+  background: #89d4d278;
+  box-shadow: none;
+}
+
+.almost-board {
+  background-image: url(/images/match/board-card-bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;
+  box-shadow: 0px 2px 5px #00000046;
+  transition: all 0.5s;
+}
+
+.almost-board:hover {
+  background: #d7602c78;
+  box-shadow: none;
+}
